@@ -163,6 +163,7 @@ button:hover {
     background-attachment: initial;
     background-size: contain;
     background-color: black;
+    background-repeat: initial;
   }
   .box {
     padding: 2rem;
